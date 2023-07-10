@@ -158,3 +158,19 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+   1   │ # Byte-compiled / optimized / DLL files
+   2   │ __pycache__/
+   3   │ *.py[cod]
+   4   │ *$py.class
+   5   │
+   6   │ # OSX useful to ignore
+   7   │ *.DS_Store
+   8   │ .AppleDouble
+   9   │ .LSOverride
+  10   │
+  11   │ # Thumbnails
+  12   │ ._*
+  13   │
+  14   │ # Files that might appear in the root of a volume
+  15   │ .DocumentRevisions-V100
